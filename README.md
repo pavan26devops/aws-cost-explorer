@@ -4,7 +4,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* To caculate the monthly bills of the outstanding instances spinned up for the Teraki members in Tools Account
+* To caculate the monthly bills of the outstanding instances spinned up for the in Tools Account
 
 ### How do I get set up? ###
 
